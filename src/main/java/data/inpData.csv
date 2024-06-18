@@ -1,0 +1,16 @@
+customer_id,customer_firstname,customer_lastname,customer_email,product_id,product_name,serial_number,claim_date,subject,summary
+1,John,Doe,johndoe@example.com,10000011,Product A,SN1000000001,15-01-2023,Defective product,Product A is malfunctioning and needs replacement
+2,Jane,Smith,janesmith@example.com,10000002,Product B,SN1000000002,20-02-2023,Broken part,Claiming warranty for broken part in Product B
+3,Michael,Johnson,michaeljohnson@example.com,10000003,Product C,SN1000000003,10-03-2023,Software issue,Software in Product C crashes frequently
+4,Emily,Williams,emilywilliams@example.com,10000004,Product D,SN1000010004,05-04-2023,Screen defect,Screen in Product D has dead pixels
+5,David,Brown,davidbrown@example.com,10000005,Product E,SN1000000005,12-05-2023,Battery issue,Battery life in Product E is shorter than expected
+6,Sophia,Jones,sophiajones@example.com,10000006,Product F,SN1000000006,25-06-2023,Connectivity problem,Product F cannot connect to network
+7,James,Garcia,jamesgarcia@example.com,10000007,Product G,SN1000110007,03-07-2023,Power failure,Product G does not turn on
+8,Olivia,Martinez,oliviamartinez@example.com,10000008,Product H,SN1000000008,18-08-2023,Touchscreen issue,Touchscreen in Product H is unresponsive
+9,Alexander,Rodriguez,alexanderrodriguez@example.com,10000009,Product I,SN1000000009,21-09-2023,Keyboard problem,Some keys in Product I do not work
+10,Sophia,Miller,sophiamiller@example.com,10000010,Product J,SN1000000010,08-10-2023,Audio malfunction,Product J has distorted audio output
+11,Liam,Gonzalez,liamgonzalez@example.com,10000001,Product A,SN1000000001,29-01-2023,Defective product,Product A is malfunctioning and needs replacement
+12,Charlotte,Lopez,charlottelopez@example.com,10000002,Product B,SN1000000002,14-02-2023,Broken part,Claiming warranty for broken part in Product B
+13,Ethan,Perez,ethanperez@example.com,10000003,Product C,SN1000000003,19-03-2023,Software issue,Software in Product C crashes frequently
+14,Amelia,Campbell,ameliacampbell@example.com,10000004,Product D,SN1000000004,22-04-2023,Screen defect,Screen in Product D has dead pixels
+15,Mason,Ross,masonross@example.com,10000050,Product E,SN1000010005,07-05-2023,Battery issue,Battery life in Product E is shorter than expected
